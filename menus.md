@@ -1,4 +1,4 @@
-## Menus for dinner
+## Menus for lunch
 
 - Hamburger
 - Pizza
@@ -6,6 +6,6 @@
 
 ## New menus for lunch
 
-- McDonald's Chicken
-- Burger Queen
+- McDonald's Coke
+- Burger Queen and King
 - KFC
