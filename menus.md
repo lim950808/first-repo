@@ -1,4 +1,4 @@
-## What I want to eat for dinner
+## Menus for lunch
 
 - Hamburger
 - Pizza
@@ -6,6 +6,6 @@
 
 ## New menus for lunch
 
-- McDonald's
-- Burger King
+- McDonald's coke
+- Burger Queen
 - KFC
