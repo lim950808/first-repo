@@ -6,6 +6,6 @@
 
 ## New menus for lunch
 
-- McDonald's Coke
-- Burger Queen and King
+- McDonald's
+- Burger Queen
 - KFC
